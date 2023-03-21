@@ -1,0 +1,16 @@
+.homeContainer {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #4b4b4b;
+    display: flex;
+    justify-content: center;
+}
+
+.homeContainerContent {
+    max-width: 1024px;
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 20px;
+}
